@@ -4,9 +4,10 @@
 ## Подзаголовок 1
 
 Ссылки на всякое:
-[link](google.com)
 
-[local](/sub/readme.md)
+[link](https://google.com)
+
+[ссылка на другой файл](second.md)
 
 ## Подзаголовок 2
 
